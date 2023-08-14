@@ -1,11 +1,15 @@
 import './App.css'
-import Hero from "/Users/andreasaichinger/code/AAichinger/myfirstreact/src/assets/components/Hero.jsx"
+import SectionOne from "../src/assets/components/SectionOne.jsx"
+import Hero from "../src/assets/components/Hero.jsx"
 function App() {
 
 
   return (
-<Hero/>
-  )
+    <>
+      <Hero/>
+      <SectionOne/>
+    </>
+  );
 }
 
 export default App
