@@ -1,5 +1,5 @@
 import './App.css'
-import Hero from "./assets/components/Hero"
+import Hero from "/Users/andreasaichinger/code/AAichinger/myfirstreact/src/assets/components/Hero.jsx"
 function App() {
 
 
